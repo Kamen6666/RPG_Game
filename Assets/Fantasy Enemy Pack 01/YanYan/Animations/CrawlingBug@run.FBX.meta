@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 6b0050af3760db746b36cc0ba8c3ef44
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BugRig
+    100002: BugRigBackbody
+    100004: BugRigFrontbody
+    100006: BugRigHead
+    100008: BugRigLBackLeg1
+    100010: BugRigLBackLeg2
+    100012: BugRigLBackLegAnkle
+    100014: BugRigLBackLegPlatform
+    100016: BugRigLFrontLeg1
+    100018: BugRigLFrontLeg2
+    100020: BugRigLFrontLegAnkle
+    100022: BugRigLFrontLegPlatform
+    100024: BugRigMouthLeft
+    100026: BugRigMouthRight
+    100028: BugRigNeck
+    100030: BugRigRBackLeg1
+    100032: BugRigRBackLeg2
+    100034: BugRigRBackLegAnkle
+    100036: BugRigRBackLegPlatform
+    100038: BugRigRFrontLeg1
+    100040: BugRigRFrontLeg2
+    100042: BugRigRFrontLegAnkle
+    100044: BugRigRFrontLegPlatform
+    100046: BugRigSpine
+    100048: ExplodingBug
+    100050: //RootNode
+    400000: BugRig
+    400002: BugRigBackbody
+    400004: BugRigFrontbody
+    400006: BugRigHead
+    400008: BugRigLBackLeg1
+    400010: BugRigLBackLeg2
+    400012: BugRigLBackLegAnkle
+    400014: BugRigLBackLegPlatform
+    400016: BugRigLFrontLeg1
+    400018: BugRigLFrontLeg2
+    400020: BugRigLFrontLegAnkle
+    400022: BugRigLFrontLegPlatform
+    400024: BugRigMouthLeft
+    400026: BugRigMouthRight
+    400028: BugRigNeck
+    400030: BugRigRBackLeg1
+    400032: BugRigRBackLeg2
+    400034: BugRigRBackLegAnkle
+    400036: BugRigRBackLegPlatform
+    400038: BugRigRFrontLeg1
+    400040: BugRigRFrontLeg2
+    400042: BugRigRFrontLegAnkle
+    400044: BugRigRFrontLegPlatform
+    400046: BugRigSpine
+    400048: ExplodingBug
+    400050: //RootNode
+    4300000: ExplodingBug
+    7400000: run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ExplodingBug
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: CrawlingBug@run(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ExplodingBug
+      parentName: CrawlingBug@run(Clone)
+      position: {x: -0, y: 0.40527454, z: 0.000000017715115}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BugRig
+      parentName: CrawlingBug@run(Clone)
+      position: {x: -0, y: 0, z: 0.09721281}
+      rotation: {x: 0.50000006, y: -0.50000006, z: -0.49999994, w: 0.49999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BugRigLBackLegPlatform
+      parentName: CrawlingBug@run(Clone)
+      position: {x: -0.49285734, y: -0.000000019634669, z: 0.008559293}
+      rotation: {x: 0.61427313, y: -0.3502407, z: -0.6142731, w: 0.3502408}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BugRigLFrontLegPlatform
+      parentName: CrawlingBug@run(Clone)
+      position: {x: -0.4207246, y: 0.000000017899053, z: 0.23071443}
+      rotation: {x: 0.61427313, y: -0.3502407, z: -0.6142731, w: 0.3502408}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BugRigRFrontLegPlatform
+      parentName: CrawlingBug@run(Clone)
+      position: {x: 0.41615713, y: 0.000000017899028, z: 0.52983814}
+      rotation: {x: 0.61427313, y: -0.3502407, z: -0.6142731, w: 0.3502408}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BugRigRBackLegPlatform
+      parentName: CrawlingBug@run(Clone)
+      position: {x: 0.5545357, y: -0.000000019634701, z: -0.19269368}
+      rotation: {x: 0.61427313, y: -0.3502407, z: -0.6142731, w: 0.3502408}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BugRigBackbody
+      parentName: CrawlingBug@run(Clone)
+      position: {x: -2.3582117e-10, y: 0.31049797, z: 0.012782646}
+      rotation: {x: -0.63694245, y: -0.093654655, z: 0.759535, w: 0.0929498}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BugRigSpine
+      parentName: BugRigBackbody
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.017321717, y: 0.082356215, z: -0.0030720402, w: 0.9964477}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: BugRigFrontbody
+      parentName: BugRigSpine
+      position: {x: -0.23241268, y: -0.000000019073486, z: 0}
+      rotation: {x: -0.017321605, y: 0.09092258, z: 0.0639496, w: 0.9936516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BugRigNeck
+      parentName: BugRigFrontbody
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.008598934, y: -0.03500441, z: 0.055062126, w: 0.9978321}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1}
+    - name: BugRigHead
+      parentName: BugRigNeck
+      position: {x: -0.12779884, y: 0, z: 0}
+      rotation: {x: 0.0018140204, y: -0.03627938, z: -0.040515807, w: 0.9985184}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.99999994}
+    - name: BugRigMouthRight
+      parentName: BugRigHead
+      position: {x: -0.008634682, y: 0.0014253807, z: -0.14873718}
+      rotation: {x: 0.000000054686097, y: -0.0000000066502284, z: -0.000000052154068,
+        w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: BugRigMouthLeft
+      parentName: BugRigHead
+      position: {x: -0.008634682, y: 0.0014253807, z: 0.14843746}
+      rotation: {x: 0.000000054686097, y: -0.0000000066502284, z: -0.000000052154068,
+        w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: BugRigRFrontLeg1
+      parentName: BugRigFrontbody
+      position: {x: 0.0021154594, y: 0.00059986115, z: -0.19044474}
+      rotation: {x: 0.67330486, y: -0.18096435, z: 0.17551406, w: 0.69505924}
+      scale: {x: 1.0000008, y: 1.0000008, z: 0.9999988}
+    - name: BugRigRFrontLeg2
+      parentName: BugRigRFrontLeg1
+      position: {x: -0.14806531, y: 0.000000095367426, z: 0.000000038146972}
+      rotation: {x: -0.008662753, y: 0.00000012103767, z: 0.00000021945118, w: 0.9999625}
+      scale: {x: 1.0000033, y: 0.9999895, z: 1.0000074}
+    - name: BugRigRFrontLegAnkle
+      parentName: BugRigRFrontLeg2
+      position: {x: -0.121953964, y: -0.000000009536743, z: 0}
+      rotation: {x: 0.14963445, y: -0.44532567, z: 0.3493223, w: 0.810721}
+      scale: {x: 1.0000006, y: 0.99999374, z: 1.0000061}
+    - name: BugRigLFrontLeg1
+      parentName: BugRigFrontbody
+      position: {x: 0.0021154212, y: 0.0005999374, z: 0.19044474}
+      rotation: {x: -0.73478353, y: 0.39894503, z: -0.1385682, w: 0.53078705}
+      scale: {x: 0.9999993, y: 0.99999964, z: 1.0000015}
+    - name: BugRigLFrontLeg2
+      parentName: BugRigLFrontLeg1
+      position: {x: -0.14806534, y: 0.000000056028366, z: -0.000000038146972}
+      rotation: {x: 0.005546891, y: -0.7304107, z: 0.23692037, w: 0.6405765}
+      scale: {x: 0.99999523, y: 1.0000101, z: 0.9999949}
+    - name: BugRigLFrontLegAnkle
+      parentName: BugRigLFrontLeg2
+      position: {x: -0.121954225, y: -0.000000019073486, z: -0.000000009536743}
+      rotation: {x: 0.2242923, y: 0.79694325, z: 0.115333945, w: 0.54888296}
+      scale: {x: 0.9999979, y: 1.0000036, z: 0.9999987}
+    - name: BugRigRBackLeg1
+      parentName: BugRigBackbody
+      position: {x: -0.05535085, y: 0.044677258, z: -0.21503994}
+      rotation: {x: 0.6541093, y: -0.28624344, z: 0.61107224, w: -0.34175497}
+      scale: {x: 0.99999785, y: 0.9999997, z: 1.0000027}
+    - name: BugRigRBackLeg2
+      parentName: BugRigRBackLeg1
+      position: {x: -0.16304938, y: -0.0000014877319, z: -0.0000013327598}
+      rotation: {x: -0.013461601, y: 0.13519418, z: -0.47200802, w: 0.87106246}
+      scale: {x: 1.0000215, y: 0.99998254, z: 0.99999624}
+    - name: BugRigRBackLegAnkle
+      parentName: BugRigRBackLeg2
+      position: {x: -0.12210411, y: 0, z: -0.0000000047683715}
+      rotation: {x: -0.26728162, y: -0.009777425, z: 0.3987036, w: 0.8772117}
+      scale: {x: 1.0000203, y: 0.99997693, z: 1.0000027}
+    - name: BugRigLBackLeg1
+      parentName: BugRigBackbody
+      position: {x: -0.055350892, y: 0.044677276, z: 0.21503997}
+      rotation: {x: 0.72463703, y: -0.3662781, z: -0.4560474, w: 0.36436564}
+      scale: {x: 1.0000026, y: 0.9999975, z: 1.0000006}
+    - name: BugRigLBackLeg2
+      parentName: BugRigLBackLeg1
+      position: {x: -0.16304943, y: -0.0000015449524, z: 0.0000013494491}
+      rotation: {x: 0.010621948, y: -0.2000838, z: -0.69856733, w: 0.68691874}
+      scale: {x: 0.9999823, y: 1.000014, z: 1.0000046}
+    - name: BugRigLBackLegAnkle
+      parentName: BugRigLBackLeg2
+      position: {x: -0.12210287, y: 0, z: -0.000000009536743}
+      rotation: {x: 0.25587034, y: -0.18192433, z: 0.62428606, w: 0.71533275}
+      scale: {x: 0.9999682, y: 1.0000353, z: 0.99999636}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

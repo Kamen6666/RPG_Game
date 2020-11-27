@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e555bd37b4e9de247b665bbce1e17eca, type: 3}
+  m_Name: Skills
+  m_EditorClassIdentifier: 
+  skills:
+  - SkillNum: 1
+    SkillName: "\u706B\u7403"
+    SkillIcon: "\u706B\u7403"
+    SkillIntrduce: "\u5411\u524D\u65B9\u53D1\u5C04\u4E00\u9897\u706B\u7403"
+    SkillCd: 1
+    playerType: 0
+    level: 1
+    needmp: 5
+  - SkillNum: 2
+    SkillName: "\u708E\u7403"
+    SkillIcon: "\u708E\u7403"
+    SkillIntrduce: "\u5728\u8EAB\u524D\u53EC\u5524\u9B54\u6CD5\u9635\u4ECE\u4E2D\u53D1\u5C04\u51FA20\u9897\u706B\u7403"
+    SkillCd: 10
+    playerType: 0
+    level: 2
+    needmp: 50
+  - SkillNum: 3
+    SkillName: "\u95EA\u73B0"
+    SkillIcon: "\u95EA\u73B0"
+    SkillIntrduce: "\u77AC\u95F4\u79FB\u52A8\u5230\u524D\u65B9\u67D0\u4E00\u4E2A\u4F4D\u7F6E"
+    SkillCd: 4
+    playerType: 0
+    level: 3
+    needmp: 30
+  - SkillNum: 4
+    SkillName: "\u96F7\u76FE"
+    SkillIcon: "\u96F7\u76FE"
+    SkillIntrduce: "\u9A71\u4F7F\u96F7\u5143\u7D20\u5728\u8EAB\u4E0A\u751F\u6210\u4E00\u5C42\u9B54\u6CD5\u76FE"
+    SkillCd: 12
+    playerType: 0
+    level: 4
+    needmp: 30
+  - SkillNum: 5
+    SkillName: "\u9ED1\u6D1E"
+    SkillIcon: "\u9ED1\u6D1E"
+    SkillIntrduce: "\u5728\u524D\u65B9\u53EC\u5524\u4E00\u4E2A\u9ED1\u6D1E\u541E\u566C\u5468\u56F48\u5C3A\u5185\u6240\u6709\u654C\u4EBA"
+    SkillCd: 10
+    playerType: 0
+    level: 5
+    needmp: 50
+  - SkillNum: 5
+    SkillName: "\u706B\u67F1"
+    SkillIcon: "\u706B\u67F1"
+    SkillIntrduce: "\u6C47\u805A\u706B\u5143\u7D20\u751F\u6210\u7834\u574F\u529B\u6781\u5F3A\u7684\u706B\u67F1"
+    SkillCd: 10
+    playerType: 0
+    level: 6
+    needmp: 100
+  - SkillNum: 5
+    SkillName: "\u9ED1\u6D1E"
+    SkillIcon: "\u9ED1\u6D1E"
+    SkillIntrduce: "\u5728\u524D\u65B9\u53EC\u5524\u4E00\u4E2A\u9ED1\u6D1E\u541E\u566C\u5468\u56F48\u5C3A\u5185\u6240\u6709\u654C\u4EBA"
+    SkillCd: 1
+    playerType: 0
+    level: 100
+    needmp: 100

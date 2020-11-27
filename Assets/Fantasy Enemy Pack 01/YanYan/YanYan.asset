@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 069cbcbf986b98f4c983573293f47e0f, type: 3}
+  m_Name: YanYan
+  m_EditorClassIdentifier: 
+  MosterName: YanYan
+  MonsterLevel: 1
+  MonsterHP: 150
+  Monster_G_HP: 10
+  MonsterExp: 8
+  Monster_G_Exp: 8
+  MonsterAttack: 32
+  Monster_G_Attack: 2
+  MonsterAttackBuff: 2
+  XunLuoRange: 6
+  thinkTime: 1
+  walkTime: 3
+  speed: 2.5
+  followDistance: 12
+  attackDistance: 1.5
+  jingjueDistance: 8
+  jumpDistance: 0
+  Monster_Ani_Move: Run
+  Monster_Ani_Attack: Attack
+  Monster_FallMat: "\u602A\u7269\u79D8\u5178_\u90AA\u6076\u7684\u9C7C\u773C_\u666E\u901A\u94A5\u5319"
+  Monster_FallMatValue: 5_30_40
+  Monster_FallgenerateCount: 1

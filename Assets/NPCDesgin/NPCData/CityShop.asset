@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ab5b0fedf7ab4545be45c0dd26e9591, type: 3}
+  m_Name: CityShop
+  m_EditorClassIdentifier: 
+  NPCName: HuHu
+  npcSort: 2000
+  props: f6030000f7030000f8030000f9030000fa030000fb030000fc030000fd030000ff03000000040000
